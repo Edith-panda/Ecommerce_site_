@@ -9,7 +9,8 @@ Technologies Used
 * AWS
 
 # Frontend - Signup
-![Screenshot (1)](https://user-images.githubusercontent.com/73990998/236687815-0f9941e3-8ee5-4a5c-80a8-b78762ea65a6.png)
+![Screenshot 2023-05-07 at 21-13-23 Online Store Signup Page](https://user-images.githubusercontent.com/73990998/236687887-494fd2a1-3451-4599-b158-f6167dd6e2a4.png)
+
 
 # Frontend - Signin
 # Frontend - Seller form
