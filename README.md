@@ -7,8 +7,8 @@ Technologies Used
 * Firebase
 * AWS
 
-*Frontend - Signup
-Frontend - Signin
+# Frontend - Signup
+# Frontend - Signin
 # Frontend - Seller form
 # Frontend - Dashboard
 # Frontend - cart
