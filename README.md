@@ -20,12 +20,24 @@ Technologies Used
 # Contact Us
 ![Screenshot 2023-05-07 at 21-15-20 Online Store Contact Us](https://user-images.githubusercontent.com/73990998/236688031-1413525f-50b9-412e-bfb0-3adfea149519.png)
 
+# Frontend - Review
+![Screenshot 2023-05-07 at 21-19-34 Online Store - Home Page](https://user-images.githubusercontent.com/73990998/236688197-161a3c4f-80c2-42e1-9868-116287b3dc3f.png)
 
 # Frontend - Seller form
+![Screenshot 2023-05-07 at 21-21-29 Online Store Seller Page](https://user-images.githubusercontent.com/73990998/236688259-78397ab7-a051-4931-a84e-482da505359c.png)
+
 # Frontend - Dashboard
+
 # Frontend - cart
+![Screenshot 2023-05-07 at 21-23-42 Online Store Cart](https://user-images.githubusercontent.com/73990998/236688448-c47932ec-b77d-4ba3-b1a2-0bec7ee6b3f5.png)
+
 # Frontend - checkout
+![Screenshot 2023-05-07 at 21-24-01 Online store-Checkout](https://user-images.githubusercontent.com/73990998/236688456-42a8c1ab-323b-4769-b4d8-2186216fedec.png)
+
+
 # Frontend - payment(stripe API)
+![Screenshot 2023-05-07 at 21-24-22 Checkout](https://user-images.githubusercontent.com/73990998/236688417-e88cb5d0-6874-45b5-8119-58112b583937.png)
+
 # Frontend - Search
 # Frontend - product
 # Frontend - review
