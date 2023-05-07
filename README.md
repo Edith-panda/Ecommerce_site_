@@ -8,6 +8,7 @@ Technologies Used
 * AWS
 
 # Frontend - Signup
+<img src = "img/bg-1.png">
 # Frontend - Signin
 # Frontend - Seller form
 # Frontend - Dashboard
