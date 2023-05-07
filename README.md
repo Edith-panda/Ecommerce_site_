@@ -1,3 +1,4 @@
+
 # FullStack ECommerce Site 
 
 Technologies Used
@@ -8,7 +9,8 @@ Technologies Used
 * AWS
 
 # Frontend - Signup
-<img src = "img/bg-1.png">
+![Screenshot (1)](https://user-images.githubusercontent.com/73990998/236687815-0f9941e3-8ee5-4a5c-80a8-b78762ea65a6.png)
+
 # Frontend - Signin
 # Frontend - Seller form
 # Frontend - Dashboard
